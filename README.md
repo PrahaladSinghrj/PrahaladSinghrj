@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @PrahaladSinghrj
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning ..
+- 🌱 I’m currently learning React js
 -- 📫 How to reach me @github
+
 
 <!---
 PrahaladSinghrj/PrahaladSinghrj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
