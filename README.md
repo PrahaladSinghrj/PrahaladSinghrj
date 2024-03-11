@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrahaladSinghrj
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Ruby
 
 -- 📫 How to reach me @github
 
